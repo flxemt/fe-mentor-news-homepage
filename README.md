@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/news-homepage-wvWbVLuRe5(https://www.frontendmentor.io/solutions/news-homepage-wvWbVLuRe5)
+- Solution URL: [https://www.frontendmentor.io/solutions/news-homepage-wvWbVLuRe5](https://www.frontendmentor.io/solutions/news-homepage-wvWbVLuRe5)
 - Live Site URL: [https://news-homepage-flxemt.netlify.app/](https://news-homepage-flxemt.netlify.app/)
 
 ## My process
